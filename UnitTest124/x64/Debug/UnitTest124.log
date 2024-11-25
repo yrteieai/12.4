@@ -1,0 +1,6 @@
+﻿  UnitTest124.cpp
+C:\Users\USER\OneDrive\Рабочий стол\12.4\12.4\12.4.cpp(85,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest124.cpp')
+  
+     Creating library C:\Users\USER\OneDrive\Рабочий стол\12.4\x64\Debug\UnitTest124.lib and object C:\Users\USER\OneDrive\Рабочий стол\12.4\x64\Debug\UnitTest124.exp
+  UnitTest124.vcxproj -> C:\Users\USER\OneDrive\Рабочий стол\12.4\x64\Debug\UnitTest124.dll
